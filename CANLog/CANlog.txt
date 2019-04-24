@@ -531,3 +531,5 @@ Test of GIT tortoise!
 
 This is Branch#1
 
+Change of Branch#1
+
